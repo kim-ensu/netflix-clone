@@ -38,7 +38,7 @@ function Signup() {
                 </div>
                 <p className="py-8">
                   <span className="text-gray-600">Already subscribed to Netflix?</span>{" "}
-                  <Link to="/login">Sing In</Link>
+                  <Link to="/login">Sign In</Link>
                 </p>
               </form>
             </div>
